@@ -4,6 +4,7 @@ import LogoAnimated from "./LogoAnimated";
 import LogoOwl from "./LogoOwl";
 
 const NavbarHeader = () => {
+    console.log('this is a super important code contribution (nah jk it\'s just a comment)');
     return (
         <>
             <h2 id="navbar-heading" className="sr-only">
